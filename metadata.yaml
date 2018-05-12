@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '24819'
     url: http://www.gutenberg.org/2009/agents/24819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36811#The-Hour-Will-Come--Volumes-I-and-IIA-Tale-of-an-Alpine-Cloister
 gutenberg_issued: '2011-07-21'
 gutenberg_type: Text
 identifiers:
